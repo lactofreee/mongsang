@@ -11,8 +11,6 @@
 ## 📌 OverView
 🔥 <strong>주제</strong>: 생성형 AI기반 꿈 일기 아카이빙 플랫폼 서비스
 
-🧷 <strong>배포 링크</strong>: https://mongsang.netlify.app/
-
 📅 <strong>개발 기간</strong>: 2025.01.14 ~ 02.04
 
 ## 🧑🏻‍💻Developers👩🏻‍💻
@@ -234,3 +232,4 @@
     </tr>
   </tbody>
 </table>
+
